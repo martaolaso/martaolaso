@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @martaolaso
 - 👀 I’m interested in music, arthouse films, politics...
 - 🌱 I’m currently learning HTML, CSS and Javascript at She Codes. Python and Sql at Masterschool
-- 💞️ I’m looking to collaborate on ... newbie here, just exploring.
+- 💞️ I’m looking to collaborate on ... for now, a newbie here.
 - 📫 How to reach me ... https://www.linkedin.com/in/marta-olaso-fern%C3%A1ndez-01519551/
 
 <!---
